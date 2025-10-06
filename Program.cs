@@ -146,8 +146,8 @@ namespace Atividade_CSharp
 
                     case "Q":
                         Console.Clear();
-                        Console.WriteLine("Saindo do programa. Apert ESC para fechar.");
-                        Environment.Exit(1);
+                        Console.WriteLine("Saindo do programa. Aperte ESC para fechar.");
+                        Environment.Exit(0);
                         break;
                     default:
                         Console.Clear();

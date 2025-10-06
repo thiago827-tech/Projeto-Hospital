@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\Atividade_CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A7B963F-BA7D-460E-99D9-8836450F70E4}|Atividade_CSharp.csproj|E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\Atividade_CSharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A7B963F-BA7D-460E-99D9-8836450F70E4}|Atividade_CSharp.csproj|e:\\thiago\\etec\\desenvolvimento de sistemas ii\\exercicios\\atividade_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A7B963F-BA7D-460E-99D9-8836450F70E4}|Atividade_CSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{4A7B963F-BA7D-460E-99D9-8836450F70E4}|Atividade_CSharp.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A7B963F-BA7D-460E-99D9-8836450F70E4}|Atividade_CSharp.csproj|e:\\thiago\\etec\\desenvolvimento de sistemas ii\\exercicios\\atividade_csharp\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A7B963F-BA7D-460E-99D9-8836450F70E4}|Atividade_CSharp.csproj|E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\Atividade_CSharp\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A7B963F-BA7D-460E-99D9-8836450F70E4}|Atividade_CSharp.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,7 +35,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T17:47:44.609Z",
-              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -46,7 +45,7 @@
               "RelativeDocumentMoniker": "Pessoa.cs",
               "ToolTip": "E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\Atividade_CSharp\\Pessoa.cs",
               "RelativeToolTip": "Pessoa.cs",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAYwDEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAYwDEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T17:47:21.257Z",
               "EditorCaption": ""
@@ -59,7 +58,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\Atividade_CSharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAAAJMAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAJQAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T17:46:53.186Z",
               "EditorCaption": ""
