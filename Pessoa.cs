@@ -89,6 +89,7 @@ namespace Atividade_CSharp
                             Console.WriteLine("Deseja continuar alterações? (S/N)");
                             resposta = Console.ReadLine();
                             resposta = resposta.ToUpper();
+                            Console.Clear();
                             if (resposta != "S" && resposta != "N")
                             {
                                 Console.WriteLine("Opcao Invalida. Voltando ao Menu.");
@@ -104,6 +105,7 @@ namespace Atividade_CSharp
                             Console.WriteLine("Deseja continuar alterações? (S/N)");
                             resposta = Console.ReadLine();
                             resposta = resposta.ToUpper();
+                            Console.Clear();
                             if (resposta != "S" && resposta != "N")
                             {
                                 Console.WriteLine("Opcao Invalida. Voltando ao Menu.");
@@ -119,6 +121,7 @@ namespace Atividade_CSharp
                             Console.WriteLine("Deseja continuar alterações? (S/N)");
                             resposta = Console.ReadLine();
                             resposta = resposta.ToUpper();
+                            Console.Clear();
                             if (resposta != "S" && resposta != "N")
                             {
                                 Console.WriteLine("Opcao Invalida. Voltando ao Menu.");

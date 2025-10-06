@@ -121,9 +121,11 @@ namespace Atividade_CSharp
                             array[contador - 1] = null;
 
                             contador--;
-                            Console.WriteLine($"|LISTA DE PACIENTES NA FILA ATUALIZADA ({contador}/{limite})|");
-                            Console.WriteLine("Pressione ENTER para retornar ao Menu");
+
+                            Console.WriteLine($"|*LISTA DE PACIENTES NA FILA ATUALIZADA ({contador}/{limite})*|");
+                            Console.WriteLine("\n\nPressione ENTER para retornar ao Menu");
                             Console.ReadLine();
+                            Console.Clear();
                         }
                         break;
 
