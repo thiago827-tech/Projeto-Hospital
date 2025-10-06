@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\Atividade_CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7B963F-BA7D-460E-99D9-8836450F70E4}|Atividade_CSharp.csproj|E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\Atividade_CSharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7B963F-BA7D-460E-99D9-8836450F70E4}|Atividade_CSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7B963F-BA7D-460E-99D9-8836450F70E4}|Atividade_CSharp.csproj|E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\Atividade_CSharp\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7B963F-BA7D-460E-99D9-8836450F70E4}|Atividade_CSharp.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7B963F-BA7D-460E-99D9-8836450F70E4}|Atividade_CSharp.csproj|e:\\thiago\\etec\\desenvolvimento de sistemas ii\\exercicios\\atividade_csharp\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7B963F-BA7D-460E-99D9-8836450F70E4}|Atividade_CSharp.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\Atividade_CSharp\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\Atividade_CSharp\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T17:47:44.609Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\Atividade_CSharp\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Pessoa.cs",
+              "ToolTip": "E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\Atividade_CSharp\\Pessoa.cs",
+              "RelativeToolTip": "Pessoa.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAYwDEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T17:47:21.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\Atividade_CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\Atividade_CSharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAJUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T17:46:53.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
