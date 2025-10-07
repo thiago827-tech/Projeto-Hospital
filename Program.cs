@@ -13,6 +13,7 @@ namespace Atividade_CSharp
         {
             Menu inicio = new Menu();
             Pessoa[] array = new Pessoa[15];
+            const int limite = 3;
             int contador = 0;
             bool continuar = true;
 
@@ -21,7 +22,6 @@ namespace Atividade_CSharp
                 switch (inicio.Hud())
                 {
                     case "1":
-                        const int limite = 3;
                         string res = "S";
 
                         while (res == "S" && contador < limite)
